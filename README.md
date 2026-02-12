@@ -1,9 +1,9 @@
-### PLUGGABLE DATABASE ASSIGNMENT
-## Course: Database Development with PL/SQL (INSY 8311)
-## Instructor: Eric Maniraguha
-## Student: Gisagara Dave Toussaint
-## Student ID: 28966
+# PLUGGABLE DATABASE ASSIGNMENT
 
+**Course:** Database Development with PL/SQL (INSY 8311)  
+**Instructor:** Eric Maniraguha  
+**Student:** Gisagara Dave Toussaint  
+**Student ID:** 28966  
 
 
 ## Task 1: Create a New Pluggable Database
