@@ -1,80 +1,37 @@
-# Oracle Pluggable Databases Assignment II
+### PLUGGABLE DATABASE ASSIGNMENT
+## Course: Database Development with PL/SQL (INSY 8311)
+## Instructor: Eric Maniraguha
+## Student: Gisagara Dave Toussaint
+## Student ID: 28966
 
-## Student Information
-- Name: Dave
-- Student ID: 28966
-- Course: Database Development with PL/SQL (INSY 8311)
-- Instructor: Eric Maniraguha
 
----
-
-## Oracle Environment Used
-- Oracle Database Version: 19c
-- Tool Used: SQL*Plus
-- Operating System: Windows
-- OEM: EM Express (Browser-based)
-
----
 
 ## Task 1: Create a New Pluggable Database
 
-Created PDB:
-GI_PDB_28966
+### Naming Convention Used
 
-Created Admin User:
-dave_plsqlauca_28966
-
-Steps Performed:
-- Connected as SYSDBA
-- Created PDB using CREATE PLUGGABLE DATABASE
-- Opened the PDB
-- Saved state
-- Switched container
-- Verified user login
-
-Screenshots provided as evidence.
+PDB Name: da_pdb_28966  
+Username: dave_plsqlauca_28966  
+Password: ********
 
 ---
 
-## Task 2: Create and Delete a Temporary PDB
+### Evidence
 
-Temporary PDB Name:
-GI_TO_DELETE_PDB_28966
+#### 1. Connected to CDB$ROOT
+![Connected](screenshots/task1/task1_1.png)
 
-Steps Performed:
-- Created temporary PDB
-- Opened and verified existence
-- Closed PDB
-- Dropped PDB including datafiles
-- Verified deletion using SHOW PDBS
+#### 2. Verified Existing PDBs Before Creation
+![Show Existing PDBs](screenshots/task1/task1_2.png)
 
-Screenshots provided as evidence.
+#### 3. Created New PDB Successfully
+![Create PDB](screenshots/task1/task1_3.png)
 
----
+#### 4. Opened the New PDB
+![Open PDB](screenshots/task1/task1_4.png)
 
-## Task 3: Oracle Enterprise Manager (OEM)
+#### 5. Switched to the New PDB
+![Switch Container](screenshots/task1/task1_5.png)
 
-- Accessed EM Express via browser
-- Verified PDB GI_PDB_28966 exists
-- Verified user dave_plsqlauca_28966 exists
-- Captured dashboard screenshots
-
----
-
-## Challenges Faced
-
-- SQL*Plus connection errors (ORA-12154, ORA-01017)
-- Listener service issues
-- PATH conflicts with multiple Oracle installations
-
-Solutions:
-- Used Easy Connect syntax
-- Verified services in Windows
-- Adjusted PATH to correct Oracle 19c home
-
----
-
-## Integrity Statement
-
-I confirm that this assignment was completed individually.
-All commands were executed by me and all screenshots are from my own environment.
+#### 6. Created User Inside the PDB
+![Create User](screenshots/task1/task1_6.png)
