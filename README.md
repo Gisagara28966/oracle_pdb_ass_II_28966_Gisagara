@@ -56,7 +56,7 @@ Temporary PDB Name: da_to_delete_pdb_28966
 ![Verify Temporary PDB Exists](screenshots/pdbdeletion/opentemppdb.PNG)
 
 #### 3. Deleted the Temporary PDB Completely and confirming it no longer exists
-![Delete Temporary PDB](screenshots/pdbdeletion/deletingpdb.PNGg)
+![Delete Temporary PDB](screenshots/pdbdeletion/deletingpdb.PNG)
 
 
 
@@ -79,17 +79,22 @@ Temporary PDB Name: da_to_delete_pdb_28966
 ![OEM Dashboard](screenshots/oemdashboard/oemdash.PNG)
 
 ---
+## Integrity Statement
+
+I confirm that this assignment was completed independently and reflects my own work.  
+All tasks, commands, configurations, and screenshots were performed and captured by me.  
+I did not copy from other students, share my work, or use unauthorized assistance.
 
 ## Final Checklist (Apply Before Submission)
 
-- [ ] Repository name follows required format
-- [ ] Repository is PUBLIC
-- [ ] README.md is complete
-- [ ] Task 1 completed with screenshots
-- [ ] Task 2 completed with screenshots
-- [ ] Task 3 completed with OEM screenshot
-- [ ] Naming conventions followed exactly
-- [ ] All screenshots are clear and readable
-- [ ] Integrity statement included
-- [ ] GitHub link submitted through Google Form
+- [ok ] Repository name follows required format
+- [ok ] Repository is PUBLIC
+- [ok ] README.md is complete
+- [ok ] Task 1 completed with screenshots
+- [ok ] Task 2 completed with screenshots
+- [ ok] Task 3 completed with OEM screenshot
+- [ok ] Naming conventions followed exactly
+- [ok ] All screenshots are clear and readable
+- [ok ] Integrity statement included
+- [ok ] GitHub link submitted through Google Form
 
