@@ -4,6 +4,7 @@
 **Instructor:** Eric Maniraguha  
 **Student:** Gisagara Dave Toussaint  
 **Student ID:** 28966  
+**Oracle used:** Oracle 19c
 
 
 ## Task 1: Create a New Pluggable Database
