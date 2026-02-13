@@ -19,19 +19,77 @@ Password: ********
 ### Evidence
 
 #### 1. Connected to CDB$ROOT
-![Connected](screenshots/task1/task1_1.png)
+![Connected](screenshots/pdbcreation/connn.PNG)
 
 #### 2. Verified Existing PDBs Before Creation
-![Show Existing PDBs](screenshots/task1/task1_2.png)
+![Show Existing PDBs](screenshots/pdbcreation/showingpdbs.PNG)
 
 #### 3. Created New PDB Successfully
-![Create PDB](screenshots/task1/task1_3.png)
+![Create PDB](screenshots/pdbcreation/pdbcreated.PNG)
 
 #### 4. Opened the New PDB
-![Open PDB](screenshots/task1/task1_4.png)
+![Open PDB](screenshots/pdbcreation/alter.PNG)
 
 #### 5. Switched to the New PDB
-![Switch Container](screenshots/task1/task1_5.png)
+![Switch Container](screenshots/pdbcreation/sessionswitch.PNG)
 
 #### 6. Created User Inside the PDB
-![Create User](screenshots/task1/task1_6.png)
+![Create User](screenshots/pdbcreation/pdbcreated.PNG)
+
+
+---
+
+## Task 2: Create and Delete a PDB
+
+### Naming Convention Used
+
+Temporary PDB Name: da_to_delete_pdb_28966
+
+---
+
+### Evidence Required
+
+#### 1. Created Temporary PDB Successfully
+![Create Temporary PDB](screenshots/pdbdeletion/deletablepdb.PNG)
+
+#### 2. Verified That the Temporary PDB Exists
+![Verify Temporary PDB Exists](screenshots/pdbdeletion/opentemppdb.PNG)
+
+#### 3. Deleted the Temporary PDB Completely and confirming it no longer exists
+![Delete Temporary PDB](screenshots/pdbdeletion/deletingpdb.PNGg)
+
+
+
+---
+
+## Task 3: Oracle Enterprise Manager (OEM)
+
+### Requirements Verification
+
+- OEM is accessible
+- Dashboard reflects Oracle environment
+- Completed PDB tasks visible
+- Username visible on dashboard
+
+---
+
+### Evidence Required
+
+#### OEM Dashboard Screenshot
+![OEM Dashboard](screenshots/oemdashboard/oemdash.PNG)
+
+---
+
+## Final Checklist (Apply Before Submission)
+
+- [ ] Repository name follows required format
+- [ ] Repository is PUBLIC
+- [ ] README.md is complete
+- [ ] Task 1 completed with screenshots
+- [ ] Task 2 completed with screenshots
+- [ ] Task 3 completed with OEM screenshot
+- [ ] Naming conventions followed exactly
+- [ ] All screenshots are clear and readable
+- [ ] Integrity statement included
+- [ ] GitHub link submitted through Google Form
+
