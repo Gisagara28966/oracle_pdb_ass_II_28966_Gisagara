@@ -78,6 +78,13 @@ Temporary PDB Name: da_to_delete_pdb_28966
 #### OEM Dashboard Screenshot
 ![OEM Dashboard](screenshots/oemdashboard/oemdash.PNG)
 
+## Issues Encountered and Solutions
+
+### Issue 1: Unable to connect to PDB using SQL*Plus
+**Problem:** Received ORA-12154 / ORA-01017 errors when trying to log in  
+**Cause:** Incorrect service name or username/password  
+**Solution:** Verified PDB name using `SHOW PDBS;` and reconnected using correct service
+
 ---
 ## Integrity Statement
 
