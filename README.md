@@ -45,7 +45,7 @@ Password: ********
 
 ### Naming Convention Used
 
-Temporary PDB Name: da_to_delete_pdb_28966
+Temporary PDB Name: gi_to_delete_pdb_28966
 
 ---
 
