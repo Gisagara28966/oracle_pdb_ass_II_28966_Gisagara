@@ -94,16 +94,15 @@ I confirm that this assignment was completed independently and reflects my own w
 All tasks, commands, configurations, and screenshots were performed and captured by me.  
 I did not copy from other students, share my work, or use unauthorized assistance.
 
-## Final Checklist (Apply Before Submission)
+## Final Checklist 
 
-- [ok ] Repository name follows required format
-- [ok ] Repository is PUBLIC
-- [ok ] README.md is complete
-- [ok ] Task 1 completed with screenshots
-- [ok ] Task 2 completed with screenshots
-- [ ok] Task 3 completed with OEM screenshot
+- [x] Repository name follows required format
+- [x] Repository is PUBLIC
+- [x] README.md is complete
+- [x] Task 1 completed with screenshots
+- [x] Task 2 completed with screenshots
+- [x] Task 3 completed with OEM screenshot
 - [ ] Naming conventions followed exactly
-- [ok ] All screenshots are clear and readable
-- [ok ] Integrity statement included
-- [ok ] GitHub link submitted through Google Form
-
+- [x] All screenshots are clear and readable
+- [x] Integrity statement included
+- [x] GitHub link submitted through Google Form
