@@ -88,11 +88,6 @@ Temporary PDB Name: gi_to_delete_pdb_28966
 **Solution:** Verified PDB name using `SHOW PDBS;` and reconnected using correct service
 
 ---
-## Integrity Statement
-
-I confirm that this assignment was completed independently and reflects my own work.  
-All tasks, commands, configurations, and screenshots were performed and captured by me.  
-I did not copy from other students, share my work, or use unauthorized assistance.
 
 ## Final Checklist 
 
@@ -106,3 +101,12 @@ I did not copy from other students, share my work, or use unauthorized assistanc
 - [x] All screenshots are clear and readable
 - [x] Integrity statement included
 - [x] GitHub link submitted through Google Form
+
+---
+## Integrity Statement
+
+I confirm that this assignment was completed independently and reflects my own work.  
+All tasks, commands, configurations, and screenshots were performed and captured by me.  
+I did not copy from other students, share my work, or use unauthorized assistance.
+
+
