@@ -78,7 +78,7 @@ Temporary PDB Name: gi_to_delete_pdb_28966
 ### Evidence Required
 
 #### OEM Dashboard Screenshot
-![OEM Dashboard](screenshots/oemdashboard/oemdash.PNG)
+![OEM Dashboard](screenshots/OEMdashboard/dashboard.PNG)
 
 ## Issues Encountered and Solutions
 
@@ -102,7 +102,7 @@ I did not copy from other students, share my work, or use unauthorized assistanc
 - [ok ] Task 1 completed with screenshots
 - [ok ] Task 2 completed with screenshots
 - [ ok] Task 3 completed with OEM screenshot
-- [ok ] Naming conventions followed exactly
+- [ ] Naming conventions followed exactly
 - [ok ] All screenshots are clear and readable
 - [ok ] Integrity statement included
 - [ok ] GitHub link submitted through Google Form
